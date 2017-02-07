@@ -13,3 +13,6 @@ hs_err_pid*
 .idea/
 *.iml
 target
+
+docker/01-CSCI-GLOB-V1.0
+docker/02-CSCI-ADM-V1.0
